@@ -1,8 +1,6 @@
 //NAma : Esra M.R. Silaen
 //NIM  : 11S22043
 //Prodi : S1 Informatika
-//Project UAS Praktikum Daspro, Mmembuat Kalkulator Sederhana
-
 
 #include <stdio.h>
 #include <math.h>
